@@ -9,7 +9,7 @@ import HelloWorld from './components/HelloWorld'
 import HelloWorld from './components/HelloWorld'
 
 export default {
-  name: 'AppDev',
+  name: 'App',
   components: {
     HelloWorld
   }
