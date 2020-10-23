@@ -3,6 +3,7 @@
     <img src="./assets/logo.png">
     <HelloWorld/>
     <HelloWorld/>23
+    <HelloWorld/>
   </div>
 </template>
 
